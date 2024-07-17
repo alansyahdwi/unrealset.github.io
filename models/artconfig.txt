@@ -1,0 +1,2 @@
+AddCharModel(299, 20001, "claude.dff", "claude.txd");
+AddCharModel(299, 20002, "paintunika.dff", "paintunika.txd");
