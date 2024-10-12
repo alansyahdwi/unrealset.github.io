@@ -1,2 +1,3 @@
 AddCharModel(299, 20001, "claude.dff", "claude.txd");
-AddCharModel(299, 20002, "paintunika.dff", "paintunika.txd");
+AddCharModel(240, 20002, "paintunika.dff", "paintunika.txd");
+AddSimpleModel(-1, 19379, -2000, "directionplay.dff", "directionplay.txd");
